@@ -1,3 +1,6 @@
+<center> <img src="eu.jpg" alt= “Caio” width="128" height="128">
+
+
 ```python
 print('Seja bem vindo ao meu currículo')
 ```
@@ -7,7 +10,7 @@ print('Seja bem vindo ao meu currículo')
 |Lavras, MG                   |                               | [Linkedin](https://www.linkedin.com/in/caio-matheus-leite-silva/)|
 |caiomtls@outlook.com         | *Caio Matheus Leite da Silva* |                                          |
 |caio.silva4@estudante.ufla.br|                               |                                          |
-
+</center>
 
 ## Habilidades Técnicas
 
